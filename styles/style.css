@@ -1,3 +1,14 @@
+@font-face {
+  font-family: flamabook;
+  src: url("../Flama-Book.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: flamabook;
+}
+
 .topbar a {
   margin: 10px;
   font-size: 20px;
